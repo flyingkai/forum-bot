@@ -1,0 +1,7 @@
+{
+        "origin":["Forum: #axiom#"],
+        "axiom":["#verbA# #adverbA# #nounA#."],
+        "verbA":["infectious disease experts", "regulatory thresholds", "Governments and BigPharma", "global hegemon", "triumphal flexing", "SafeEntry", "digital check-in" ],
+        "adverbA":["Incredible", "Abnormal", "Accidental", "Amazing", "Adverse", "Ultimate", "Scarce", "Unbearable"],
+        "nounA":["The Elderly", "Educators", "Childcare Teachers", "Dorm Operators", "Millenials", "Otters", "Cats", "Town Council", "LGBT Individuals"]
+}
