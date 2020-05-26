@@ -1,0 +1,12 @@
+{
+	"origin": ["Forum: #origincycle#"],
+	"origincycle": ["#originA#", "#originB#"],
+
+	"originA": ["#verbA# #verbB# #connecting# #nounB#."],
+	"verbA": ["Aim for","Use","Offer", "Focus on", "Improve", "Achieve", "Move towards", "Close", "Push for"],
+	"verbB": ["peaceful coexistence", "higher KPI", "better oversight", "restrictions", "loopholes"],
+	"connecting": ["with", "with", "for", "on"],
+	"nounB": ["otters", "the elderly", "the Pioneer Generation", "death sentences", "McSpicys", "migrant workers", "Ministers", "Town Councils", "Investors", "Dementia Village", "SMEs", "Households", "Pets", "Section 377A"],
+
+	"originB": ["test"]
+}
